@@ -1,0 +1,14 @@
+[remap]
+
+importer="image"
+type="Image"
+uid="uid://drqfoutay8mss"
+path="res://.godot/imported/test.svg-364afae87edf29db2bb2702306f789ee.image"
+
+[deps]
+
+source_file="res://test.svg"
+dest_files=["res://.godot/imported/test.svg-364afae87edf29db2bb2702306f789ee.image"]
+
+[params]
+
